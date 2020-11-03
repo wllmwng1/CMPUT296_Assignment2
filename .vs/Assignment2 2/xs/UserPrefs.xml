@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{04EFD7C0-99C6-EE96-D6F1-0B8F93DD5AFF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HW2/AStarPathFinder.cs">
+    <Files>
+      <File FileName="../Assignment1/Assets/HW1/ObstacleTest5Points.cs" Line="11" Column="1" />
+      <File FileName="Assets/HW2/AStarPathFinder.cs" Line="95" Column="42" />
+      <File FileName="Assets/HW2/ObstacleTest1Points.cs" />
+      <File FileName="Assets/Scripts/SpaceRepresentation/Polygon.cs" />
+      <File FileName="Assets/Scripts/SpaceRepresentation/ObstacleHandler.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment2 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="HW2" expanded="True">
+                <Node name="AStarPathFinder.cs" selected="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="SpaceRepresentation" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3e2f2883-f2dc-4830-a159-342cdf41e53d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
